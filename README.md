@@ -1,6 +1,6 @@
 # Gesture Recognition using CNN
 
-A Convolutional Neural Network (CNN) based gesture recognition system built from scratch using a custom dataset (~50,000 images).
+A Convolutional Neural Network (CNN) based gesture recognition system built from scratch using a custom dataset.
 
 ## Features
 - Custom dataset collection and preprocessing
