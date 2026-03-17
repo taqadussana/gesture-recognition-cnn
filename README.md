@@ -21,6 +21,7 @@ A Convolutional Neural Network (CNN) based gesture recognition system built from
 - Scikit-learn
 ## How to Run
 1. Clone the repository
+
 2. Install dependencies:
    pip install -r requirements.txt
 
@@ -37,4 +38,4 @@ Due to size limitations, the full dataset is not included in this repository.
 
 To run this project, you can:
 - Use your own dataset with a similar folder structure (e.g., /train/ok, /train/stop, etc.)
-- Or contact me for access to a sample dataset
+- OrA small sample dataset can be provided upon request
