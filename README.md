@@ -12,6 +12,12 @@ A Convolutional Neural Network (CNN) based gesture recognition system built from
 - Achieved high training and validation accuracy
 - Confusion matrix and classification report generated for evaluation
 
+### Accuracy Curve
+![Accuracy](accuracy.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
 ## Technologies Used
 - Python
 - TensorFlow / Keras
