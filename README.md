@@ -38,4 +38,4 @@ Due to size limitations, the full dataset is not included in this repository.
 
 To run this project, you can:
 - Use your own dataset with a similar folder structure (e.g., /train/ok, /train/stop, etc.)
-- OrA small sample dataset can be provided upon request
+- Or A small sample dataset can be provided upon request
